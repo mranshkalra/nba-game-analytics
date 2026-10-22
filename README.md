@@ -1,2 +1,2 @@
-# nba-game-analytics
-The project  NBA Game Analytics: What actually wins games?
+# NBA Game Analytics
+Analyzing what drives winning in the NBA using Python, SQL, and statistics.
